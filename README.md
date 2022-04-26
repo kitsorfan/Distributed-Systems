@@ -4,6 +4,9 @@
 <img alt="Python" src = "https://img.shields.io/badge/Python-1136AA?style=for-the-badge&logo=python&logoColor=white" height="28"> <img alt="Flask" src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28"> <img alt="Ubuntu Server" src = "https://img.shields.io/badge/Ubuntu Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28">
 
 
+<img alt="Byte Code Size" src="https://img.shields.io/github/languages/code-size/kitsorfan/Distributed-Systems?color=red" /> <img alt="# Lines of Code" src="https://img.shields.io/tokei/lines/github/kitsorfan/Distributed-Systems?color=red" /> <img alt="Last commit" src="https://img.shields.io/github/last-commit/kitsorfan/Distributed-Systems?color=important" />
+
+
 <hr>
 
 ## 📋**Description**
